@@ -1,5 +1,5 @@
 # This is the demonstration of F(requency) Screen(er), a script that gets quotes from Yahoo Finance,
-# analyzes spykes from local lows, and saves the results in csv files locally.
+# analyzes spikes from local lows, and saves the results in csv files locally.
 # Made for the June 2023 presentation at Fisher Knight. Ask GGP for the complete version.
 
 import yfinance as yf
