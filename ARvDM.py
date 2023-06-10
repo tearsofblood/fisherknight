@@ -1,3 +1,5 @@
+# This code illustrates the comparision between autoregressive and dynamic models. More information can be found here: https://fisherknight.com/autoregressive-vs-dynamic-models/  
+
 import numpy as np
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
