@@ -1,4 +1,4 @@
-# Symmetric Projection (Mirror Image) Analysis illustration
+# Symmetric Projection (Mirror Image) Analysis illustration. More information here: https://fisherknight.com/on-symmetric-projection-a-k-a-mirror-image-analysis/
 
 import yfinance as yf
 import matplotlib.pyplot as plt
