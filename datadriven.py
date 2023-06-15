@@ -6,7 +6,7 @@ from fredapi import Fred
 import statsmodels.api as sm
 
 # API key from FRED (replace 'YOUR_API_KEY' with your actual API key). You can get it for free if you register at FRED
-api_key = '99add5eb30afa1b25755ca699abc3d11YOUR_API_KEY
+api_key = 'YOUR_API_KEY'
 
 fred = Fred(api_key=api_key)
 cpi_data = fred.get_series('CPIAUCSL', start='1970-01-01')
